@@ -1,5 +1,6 @@
 # Repositório do Desafio de projeto obre Git/GitHub da DIO
 Repositório criado para o Desafo de Projeto.
+Dicas de links que vão turbinar seus estudos.
 
 ##Links Úteis 
 
